@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blogging Website",
+      "body": "Feel free to create your blogs and share your experiences.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Hello",
+      "body": "Descriptionhvvyhviuviv",
+      "author": "mario",
+      "id": 2
+    }
+  ]
+}
